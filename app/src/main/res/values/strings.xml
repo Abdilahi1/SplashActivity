@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">mySplash</string>
+    <string name="go_to_profile">Go to Profile</string>
+    <string name="welcome_to_main_activity">Welcome to Main Activity</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_my_app">Welcome to My App</string>
+    <string name="card_title">Card Title</string>
+    <string name="this_is_a_simple_description_for_the_card">This is a simple description for the card.</string>
+    <string name="view_more">View More</string>
+    <string name="app_logo">App Logo</string>
+    <string name="my_app">My App</string>
+    <string name="checknetwork">CheckNetwork</string>
+    <string name="app">App</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="logo_app">Logo App</string>
+    <string name="check_the_network">Check the Network</string>
+    <string name="welcome_to_checknetwork">Welcome to CheckNetwork</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="show_custom_snackbar">Show Custom Snackbar</string>
+</resources>
